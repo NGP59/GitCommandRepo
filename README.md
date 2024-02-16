@@ -1,2 +1,2 @@
 # GitCommandRepo
-Apprentissage Git
+Apprentissage Git en ligne de commande
